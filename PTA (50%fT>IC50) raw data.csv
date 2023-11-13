@@ -1,4 +1,4 @@
-﻿IC50,Viral type,Dose,PTA,cmt
+﻿IC50,Viral type,Dose,PTA,Compartment
 20,HSV-1,10 mg/kg IVI1h Q8h,100,ECF
 50,HSV-1,10 mg/kg IVI1h Q8h,100,ECF
 100,HSV-1,10 mg/kg IVI1h Q8h,100,ECF
@@ -207,11 +207,11 @@
 2000,VZV,30 mg/kg IVI1h Q8h,100,Plasma
 3350,VZV,30 mg/kg IVI1h Q8h,100,Plasma
 3400,VZV,30 mg/kg IVI1h Q8h,100,Plasma
-3450,VZV,30 mg/kg IVI1h Q8h,98,Plasma
-3500,VZV,30 mg/kg IVI1h Q8h,90,Plasma
-3550,VZV,30 mg/kg IVI1h Q8h,76,Plasma
-3600,VZV,30 mg/kg IVI1h Q8h,55,Plasma
-3650,VZV,30 mg/kg IVI1h Q8h,27,Plasma
-3700,VZV,30 mg/kg IVI1h Q8h,11,Plasma
-3750,VZV,30 mg/kg IVI1h Q8h,4,Plasma
-4000,VZV,30 mg/kg IVI1h Q8h,0,Plasma
+3450,VZV,30 mg/kg IVI1h Q8h,100,Plasma
+3500,VZV,30 mg/kg IVI1h Q8h,100,Plasma
+3550,VZV,30 mg/kg IVI1h Q8h,100,Plasma
+3600,VZV,30 mg/kg IVI1h Q8h,100,Plasma
+3650,VZV,30 mg/kg IVI1h Q8h,100,Plasma
+3700,VZV,30 mg/kg IVI1h Q8h,100,Plasma
+3750,VZV,30 mg/kg IVI1h Q8h,100,Plasma
+4000,VZV,30 mg/kg IVI1h Q8h,100,Plasma
